@@ -40,7 +40,7 @@ What are the four object-oriented principles of programming?
 
     Objects are managed through methods.
 
-![encapsulation](https://gyazo.com/e194a124e5dc51ae0b71d7a1be91616b)
+![encapsulation](/imgs/encap.png)
 
 **Abstraction**
 
@@ -54,7 +54,7 @@ What are the four object-oriented principles of programming?
     The mechanism hides the internal implementation details,
     and show the operations that are relevant for other objects.
 
-![abstraction](https://gyazo.com/98dbe1b66cb1b7e6fdf585394b80c87c)
+![abstraction](/imgs/abstract.png)
 
 **Inheritance**
 
@@ -67,7 +67,7 @@ What are the four object-oriented principles of programming?
     Child class reuses the fields and methods of the parent
     class and implement its own unique code.
 
-![inheritance](https://gyazo.com/391b500aaef3245bbed7e822b2b20bc7)
+![inheritance](/imgs/inherit.png)
 
 **Polymorphism**
 
@@ -79,7 +79,7 @@ What are the four object-oriented principles of programming?
     Then, each child class implements its own versions
     of these common methods.
 
-![polymorphism](https://gyazo.com/78d5d9055fdfa42bc93fc8e4a6e561d5)
+![polymorphism](/imgs/poly.png)
 
 **REFERENCES**
 --------------
