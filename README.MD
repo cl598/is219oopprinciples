@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/cl598/is219oopprinciples.svg?branch=master)](https://travis-ci.com/cl598/is219oopprinciples)
+
 There are five **SOLID** JavaScript principles
 ----------------------------------------------
 Keep these pointers in mind to become a good JavaScript developer.
